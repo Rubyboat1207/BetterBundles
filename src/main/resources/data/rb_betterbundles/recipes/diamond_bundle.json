@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " g ",
+    "gBg",
+    " G "
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:diamond"
+    },
+    "B": {
+      "item": "rb_betterbundles:golden_bundle"
+    },
+    "G": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "rb_betterbundles:diamond_bundle",
+    "count": 1
+  }
+}
